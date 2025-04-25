@@ -43,7 +43,7 @@ I'm a Computer Science Engineering graduate from *SRM University* with a CGPA of
 ## 📫 Let's Connect!
 
 - 📧 Email: *prasanthroyal9959@gmail.com*
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [Medium](https://medium.com/@your-link) | [HackerRank](https://www.hackerrank.com/your-link)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/v-surya-prasanth-33831825b) | [Medium](https://medium.com/@your-link) | [HackerRank](https://www.hackerrank.com/your-link)
 
 ---
 
