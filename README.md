@@ -1,6 +1,7 @@
 # 👋 Hi, I'm V Surya Prasanth
 
 🎯 *Aspiring Data Analyst* | 🐍 Python Enthusiast | 📊 Data-Driven Problem Solver |Power BI
+
 I'm a Computer Science Engineering graduate from *SRM University* with a CGPA of *9.23, and I’m passionate about transforming data into actionable insights. My journey began with **Python* and *SQL, and over time, I've built a strong foundation in **data analytics, **database design, and **data visualization*.
 
 ---
